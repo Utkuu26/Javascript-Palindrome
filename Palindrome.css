@@ -1,0 +1,46 @@
+body {
+    background: #0f3854;
+    background: radial-gradient(ellipse at center, #265b69 40%, #000000 90%);
+    background-size: 100%;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Rockwell', monospace;
+    font-size: 28px;
+}
+
+input {
+    font-size: 40px;
+    margin: 40px;
+    padding: 8px;
+    text-decoration: none;
+
+}
+
+.kontrol {
+    color: #1f4e6e;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border-style: double;
+    border-color: white;
+}
+
+.kontrol:hover {
+    color: green;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+label {
+    font-size: 40px;
+}
+
+.bilgi {
+    margin-top: 100px;
+}
+
+.ornek {
+    margin-top: 100px;
+}
